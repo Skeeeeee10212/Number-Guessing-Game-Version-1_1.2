@@ -1,0 +1,18 @@
+html{
+    background-color: blue;
+}
+
+#H1{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    font-size: 200%;
+}
+
+#H3{
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    font-size: 200%;
+
+}
